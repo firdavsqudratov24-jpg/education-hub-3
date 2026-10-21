@@ -1,0 +1,21 @@
+{
+  "total_subjects": 52,
+  "total_materials": 200,
+  "distribution": {
+    "Matematika, algebra, geometriya": 30,
+    "Fizika va astronomiya": 15,
+    "Kimyo": 12,
+    "Biologiya va tabiiy fanlar": 18,
+    "Geografiya va ekologiya": 12,
+    "Ona tili va adabiyot": 18,
+    "Ingliz va boshqa xorijiy tillar": 20,
+    "O‘zbekiston va jahon tarixi": 16,
+    "Informatika va dasturlash": 20,
+    "Huquq, iqtisod, tarbiya": 12,
+    "Universitet fanlari": 15,
+    "San’at, texnologiya va boshqa fanlar": 12
+  },
+  "verified": true,
+  "language": "Uzbek (Latin)",
+  "platform": "Education Hub 2.0"
+}

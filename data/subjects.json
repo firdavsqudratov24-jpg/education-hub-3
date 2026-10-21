@@ -1,0 +1,522 @@
+[
+  {
+    "id": "sub-01",
+    "slug": "matematika",
+    "name": "Matematika",
+    "category": "Aniq fanlar",
+    "grade_range": "1-6-sinf",
+    "description": "Boshlang'ich va asosiy arifmetika, sonlar nazariyasi, amallar va mantiqiy masalalar.",
+    "icon": "Calculator",
+    "color": "#2563EB"
+  },
+  {
+    "id": "sub-02",
+    "slug": "algebra",
+    "name": "Algebra",
+    "category": "Aniq fanlar",
+    "grade_range": "7-11-sinf",
+    "description": "Tenglamalar, tengsizliklar, funksiyalar, ko'phadlar, trigonometriya va matematik analiz asoslari.",
+    "icon": "Sigma",
+    "color": "#1D4ED8"
+  },
+  {
+    "id": "sub-03",
+    "slug": "geometriya",
+    "name": "Geometriya",
+    "category": "Aniq fanlar",
+    "grade_range": "7-11-sinf",
+    "description": "Planimetriya, stereometriya, vektorlar va fazoviy shakllar xossalari.",
+    "icon": "Shapes",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "sub-04",
+    "slug": "informatika",
+    "name": "Informatika",
+    "category": "Aniq fanlar",
+    "grade_range": "5-11-sinf",
+    "description": "Axborot texnologiyalari, algoritmlash, kompyuter tuzilishi va dasturlash asoslari.",
+    "icon": "Laptop",
+    "color": "#0284C7"
+  },
+  {
+    "id": "sub-05",
+    "slug": "fizika",
+    "name": "Fizika",
+    "category": "Aniq fanlar",
+    "grade_range": "6-11-sinf",
+    "description": "Mexanika, termodinamika, elektromagnetizm, optika va kvant fizikasi qonuniyatlari.",
+    "icon": "Zap",
+    "color": "#0EA5E9"
+  },
+  {
+    "id": "sub-06",
+    "slug": "astronomiya",
+    "name": "Astronomiya",
+    "category": "Aniq fanlar",
+    "grade_range": "10-11-sinf",
+    "description": "Quyosh tizimi, yulduzlar evolyutsiyasi, galaktikalar va fazoviy kosmik hodisalar.",
+    "icon": "Orbit",
+    "color": "#6366F1"
+  },
+  {
+    "id": "sub-07",
+    "slug": "kimyo",
+    "name": "Kimyo",
+    "category": "Tabiiy fanlar",
+    "grade_range": "7-11-sinf",
+    "description": "Anorganik va organik kimyo, moddalar tuzilishi, reaksiyalar va davriy qonun.",
+    "icon": "FlaskConical",
+    "color": "#0D9488"
+  },
+  {
+    "id": "sub-08",
+    "slug": "biologiya",
+    "name": "Biologiya",
+    "category": "Tabiiy fanlar",
+    "grade_range": "9-11-sinf",
+    "description": "Umumiy biologiya, hujayra nazariyasi, genetika, seleksiya va evolyutsiya asoslari.",
+    "icon": "Dna",
+    "color": "#059669"
+  },
+  {
+    "id": "sub-09",
+    "slug": "botanika",
+    "name": "Botanika",
+    "category": "Tabiiy fanlar",
+    "grade_range": "5-6-sinf",
+    "description": "O'simliklar dunyosi tuzilishi, fotosintez, florasi va sistematikasi.",
+    "icon": "Flower2",
+    "color": "#10B981"
+  },
+  {
+    "id": "sub-10",
+    "slug": "zoologiya",
+    "name": "Zoologiya",
+    "category": "Tabiiy fanlar",
+    "grade_range": "7-sinf",
+    "description": "Hayvonot olami xilma-xilligi, umurtqasizlar, umurtqalilar va ularning ekologiyasi.",
+    "icon": "Bug",
+    "color": "#16A34A"
+  },
+  {
+    "id": "sub-11",
+    "slug": "anatomiya",
+    "name": "Anatomiya",
+    "category": "Tabiiy fanlar",
+    "grade_range": "8-sinf",
+    "description": "Odam organizmi anatomiyasi, fiziologiyasi, organlar tizimlari va gigiyena.",
+    "icon": "HeartPulse",
+    "color": "#DC2626"
+  },
+  {
+    "id": "sub-12",
+    "slug": "geografiya",
+    "name": "Geografiya",
+    "category": "Tabiiy fanlar",
+    "grade_range": "5-10-sinf",
+    "description": "Tabiiy va iqtisodiy geografiya, qit'alar, okeanlar va O'zbekiston tabiiy boyliklari.",
+    "icon": "Globe2",
+    "color": "#0284C7"
+  },
+  {
+    "id": "sub-13",
+    "slug": "ekologiya",
+    "name": "Ekologiya",
+    "category": "Tabiiy fanlar",
+    "grade_range": "9-11-sinf",
+    "description": "Atrof-muhitni muhofaza qilish, biosfera, barqaror rivojlanish va global iqlim o'zgarishi.",
+    "icon": "Leaf",
+    "color": "#22C55E"
+  },
+  {
+    "id": "sub-14",
+    "slug": "tabiiy-fanlar",
+    "name": "Tabiiy fanlar",
+    "category": "Tabiiy fanlar",
+    "grade_range": "1-4-sinf",
+    "description": "Atrofimizdagi olam, tabiat hodisalari, fasllar va ekologik savodxonlik.",
+    "icon": "SunMedium",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "sub-15",
+    "slug": "ona-tili",
+    "name": "Ona tili",
+    "category": "Tillar va adabiyot",
+    "grade_range": "1-11-sinf",
+    "description": "O'zbek tili fonetikasi, leksikologiyasi, morfologiyasi, sintaksisi va imlo qoidalari.",
+    "icon": "BookType",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "sub-16",
+    "slug": "ozbek-adabiyoti",
+    "name": "O‘zbek adabiyoti",
+    "category": "Tillar va adabiyot",
+    "grade_range": "5-11-sinf",
+    "description": "Klassik va zamonaviy o'zbek adabiyoti durdonalari, shoir va yozuvchilar merosi.",
+    "icon": "BookOpen",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "sub-17",
+    "slug": "ingliz-tili",
+    "name": "Ingliz tili",
+    "category": "Tillar va adabiyot",
+    "grade_range": "1-11-sinf / Barchaga",
+    "description": "A1 dan C1 gacha ingliz tili grammatikasi, so'z boyligi, tinglab tushunish va so'zlashuv.",
+    "icon": "Languages",
+    "color": "#2563EB"
+  },
+  {
+    "id": "sub-18",
+    "slug": "rus-tili",
+    "name": "Rus tili",
+    "category": "Tillar va adabiyot",
+    "grade_range": "2-11-sinf",
+    "description": "Rus tili grammatikasi, nutq madaniyati va so'zlashuv ko'nikmalari.",
+    "icon": "BookMarked",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "sub-19",
+    "slug": "qoraqalpoq-tili",
+    "name": "Qoraqalpoq tili va adabiyoti",
+    "category": "Tillar va adabiyot",
+    "grade_range": "1-11-sinf",
+    "description": "Qoraqalpoq tilining tuzilishi, leksikasi, folklori va milliy adabiyoti.",
+    "icon": "ScrollText",
+    "color": "#0D9488"
+  },
+  {
+    "id": "sub-20",
+    "slug": "nemis-tili",
+    "name": "Nemis tili",
+    "category": "Tillar va adabiyot",
+    "grade_range": "5-11-sinf",
+    "description": "Deutsch als Fremdsprache: grammatika, artikllar, fe'l tuslanishi va so'zlashuv.",
+    "icon": "Compass",
+    "color": "#D97706"
+  },
+  {
+    "id": "sub-21",
+    "slug": "fransuz-tili",
+    "name": "Fransuz tili",
+    "category": "Tillar va adabiyot",
+    "grade_range": "5-11-sinf",
+    "description": "La langue française: talaffuz, grammatika, leksika va muloqot madaniyati.",
+    "icon": "Sparkles",
+    "color": "#EC4899"
+  },
+  {
+    "id": "sub-22",
+    "slug": "chet-tili-grammatikasi",
+    "name": "Chet tili grammatikasi",
+    "category": "Tillar va adabiyot",
+    "grade_range": "Barcha darajalar",
+    "description": "Taqqoslashli grammatika, zamonlar uyg'unligi, modal fe'llar va xalqaro imtihonlar tayyorgarligi.",
+    "icon": "GraduationCap",
+    "color": "#6D28D9"
+  },
+  {
+    "id": "sub-23",
+    "slug": "ozbekiston-tarixi",
+    "name": "O‘zbekiston tarixi",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "5-11-sinf",
+    "description": "Qadimgi davrdan hozirgi kungacha O'zbekiston hududidagi davlatchilik, madaniyat va taraqqiyot tarixi.",
+    "icon": "Landmark",
+    "color": "#B45309"
+  },
+  {
+    "id": "sub-24",
+    "slug": "jahon-tarixi",
+    "name": "Jahon tarixi",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "6-11-sinf",
+    "description": "Qadimgi Sharq, Antik dunyo, O'rta asrlar, Yangi va Eng yangi davr jahon sivilizatsiyalari.",
+    "icon": "Hourglass",
+    "color": "#9A3412"
+  },
+  {
+    "id": "sub-25",
+    "slug": "davlat-va-huquq",
+    "name": "Davlat va huquq asoslari",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "8-11-sinf",
+    "description": "Konstitutsiya, inson huquqlari, fuqarolik, mehnat va jinoyat huquqi asoslari.",
+    "icon": "Scale",
+    "color": "#1E3A8A"
+  },
+  {
+    "id": "sub-26",
+    "slug": "tarbiya",
+    "name": "Tarbiya",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "1-11-sinf",
+    "description": "Odob-axloq, vatanparvarlik, estetik tarbiya, oilaviy qadriyatlar va ijtimoiy ko'nikmalar.",
+    "icon": "Smile",
+    "color": "#10B981"
+  },
+  {
+    "id": "sub-27",
+    "slug": "iqtisodiy-bilim",
+    "name": "Iqtisodiy bilim asoslari",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "8-11-sinf",
+    "description": "Bozor iqtisodiyoti qonunlari, talab va taklif, pul, inflyatsiya va moliyaviy savodxonlik.",
+    "icon": "Coins",
+    "color": "#047857"
+  },
+  {
+    "id": "sub-28",
+    "slug": "falsafa",
+    "name": "Falsafa",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "Akademik / Oliy ta'lim",
+    "description": "Ontologiya, gnoseologiya, falsafiy oqimlar, dunyoqarash va inson mohiyati.",
+    "icon": "Brain",
+    "color": "#6D28D9"
+  },
+  {
+    "id": "sub-29",
+    "slug": "psixologiya",
+    "name": "Psixologiya",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "Akademik / Oliy ta'lim",
+    "description": "Shaxs psixologiyasi, hissiyotlar, xulq-atvor motivatsiyasi va muloqot sirlari.",
+    "icon": "Sparkle",
+    "color": "#DB2777"
+  },
+  {
+    "id": "sub-30",
+    "slug": "mantiq",
+    "name": "Mantiq",
+    "category": "Ijtimoiy va gumanitar fanlar",
+    "grade_range": "Akademik / Oliy ta'lim",
+    "description": "Tafakkur shakllari, mantiqiy qonunlar, xulosalar chiqarish va argumentatsiya san'ati.",
+    "icon": "Puzzle",
+    "color": "#4338CA"
+  },
+  {
+    "id": "sub-31",
+    "slug": "texnologiya",
+    "name": "Texnologiya",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "5-9-sinf",
+    "description": "Mehnat ta'limi, materiallarga ishlov berish, pazandachilik, robototexnika elementlari.",
+    "icon": "Wrench",
+    "color": "#D97706"
+  },
+  {
+    "id": "sub-32",
+    "slug": "tasviriy-sanat",
+    "name": "Tasviriy san’at",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "1-7-sinf",
+    "description": "Rangtasvir, qalamtasvir, kompozitsiya qoidalari va san'at tarixi.",
+    "icon": "Palette",
+    "color": "#EA580C"
+  },
+  {
+    "id": "sub-33",
+    "slug": "musiqa-madaniyati",
+    "name": "Musiqa madaniyati",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "1-7-sinf",
+    "description": "Musiqiy savod, nota yozuvi, mumtoz va xalq kuylari, ovoz tayyorlash.",
+    "icon": "Music",
+    "color": "#9333EA"
+  },
+  {
+    "id": "sub-34",
+    "slug": "jismoniy-tarbiya",
+    "name": "Jismoniy tarbiya",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "1-11-sinf",
+    "description": "Sog'lom turmush tarzi, gimnastika, yengil atletika, sport o'yinlari va chiniqish.",
+    "icon": "Trophy",
+    "color": "#16A34A"
+  },
+  {
+    "id": "sub-35",
+    "slug": "chizmachilik",
+    "name": "Chizmachilik",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "8-9-sinf",
+    "description": "Muhandislik grafikasi, proeksiyalar, kesimlar va aksonometriya asoslari.",
+    "icon": "PencilRuler",
+    "color": "#0284C7"
+  },
+  {
+    "id": "sub-36",
+    "slug": "hayot-xavfsizligi",
+    "name": "Hayot xavfsizligi",
+    "category": "Amaliy va ijodiy fanlar",
+    "grade_range": "5-11-sinf",
+    "description": "Favqulodda vaziyatlarda harakatlanish, birinchi tibbiy yordam va xavfsizlik madaniyati.",
+    "icon": "ShieldAlert",
+    "color": "#EF4444"
+  },
+  {
+    "id": "sub-37",
+    "slug": "dasturlash",
+    "name": "Dasturlash",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Barcha darajalar",
+    "description": "Algoritmlar, ma'lumotlar tuzilmasi, OOP tamoyillari va toza kod yozish standartlari.",
+    "icon": "Code2",
+    "color": "#2563EB"
+  },
+  {
+    "id": "sub-38",
+    "slug": "web-development",
+    "name": "Web Development",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "HTML5, CSS3, modern JavaScript, frontend va backend freymvorklarida web ilovalar yaratish.",
+    "icon": "Globe",
+    "color": "#0D9488"
+  },
+  {
+    "id": "sub-39",
+    "slug": "python",
+    "name": "Python",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Barcha darajalar",
+    "description": "Python sintaksisi, kutubxonalar, skriptlar, Django/FastAPI va ma'lumotlar bilan ishlash.",
+    "icon": "Terminal",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "sub-40",
+    "slug": "javascript",
+    "name": "JavaScript",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "Asinxron dasturlash, DOM manipulatsiyasi, ES6+ imkoniyatlari, TypeScript va Node.js ekotizimi.",
+    "icon": "FileCode",
+    "color": "#EAB308"
+  },
+  {
+    "id": "sub-41",
+    "slug": "suniy-intellekt",
+    "name": "Sun’iy intellekt",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Machine Learning, chuqur o'rganish (Deep Learning), neyron to'rlar va LLM modellari arxitekturasi.",
+    "icon": "Cpu",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "sub-42",
+    "slug": "malumotlar-tahlili",
+    "name": "Ma’lumotlar tahlili",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Data Analytics, SQL so'rovlar, Pandas, NumPy, PowerBI va vizuallashtirish usullari.",
+    "icon": "BarChart3",
+    "color": "#0284C7"
+  },
+  {
+    "id": "sub-43",
+    "slug": "kiberxavfsizlik",
+    "name": "Kiberxavfsizlik",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "Tarmoq xavfsizligi, kriptografiya, zaifliklarni aniqlash (pentesting) va ma'lumotlar himoyasi.",
+    "icon": "ShieldCheck",
+    "color": "#DC2626"
+  },
+  {
+    "id": "sub-44",
+    "slug": "oliy-matematika",
+    "name": "Oliy matematika",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Chiziqli algebra, matematik analiz, differensial tenglamalar va ehtimollar nazariyasi.",
+    "icon": "Binary",
+    "color": "#1D4ED8"
+  },
+  {
+    "id": "sub-45",
+    "slug": "statistika",
+    "name": "Statistika",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Tavsifiy statistika, regressiya tahlili, gipotezalarni tekshirish va ma'lumotlar taqsimoti.",
+    "icon": "TrendingUp",
+    "color": "#059669"
+  },
+  {
+    "id": "sub-46",
+    "slug": "muhandislik",
+    "name": "Muhandislik",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Muhandislik dizayni, materialshunoslik, mexatronika va texnik tizimlar modellashtirish.",
+    "icon": "Cog",
+    "color": "#475569"
+  },
+  {
+    "id": "sub-47",
+    "slug": "pedagogika",
+    "name": "Pedagogika",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Zamonaviy o'qitish metodikasi, inklyuziv ta'lim, baholash mezonlari va ta'lim psixologiyasi.",
+    "icon": "GraduationCap",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "sub-48",
+    "slug": "tibbiyot-asoslari",
+    "name": "Tibbiyot asoslari",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "Klinik propedevtika, farmakologiya asoslari, shoshilinch yordam va profilaktika.",
+    "icon": "Stethoscope",
+    "color": "#E11D48"
+  },
+  {
+    "id": "sub-49",
+    "slug": "moliya",
+    "name": "Moliya",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Korporativ moliya, investitsiya tahlili, bank tizimi va kapital bozori boshqaruvi.",
+    "icon": "DollarSign",
+    "color": "#15803D"
+  },
+  {
+    "id": "sub-50",
+    "slug": "buxgalteriya",
+    "name": "Buxgalteriya",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "Buxgalteriya hisobi standartlari (BHMS/IFRS), provodkalar, soliq hisoboti va 1C asoslari.",
+    "icon": "Calculator",
+    "color": "#0369A1"
+  },
+  {
+    "id": "sub-51",
+    "slug": "menejment",
+    "name": "Menejment",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Universitet",
+    "description": "Strategik boshqaruv, loyihalarni boshqarish (Agile/Scrum), HR va operatsion boshqaruv.",
+    "icon": "Users2",
+    "color": "#4338CA"
+  },
+  {
+    "id": "sub-52",
+    "slug": "marketing",
+    "name": "Marketing",
+    "category": "Universitet va kasbiy",
+    "grade_range": "Kasbiy / Universitet",
+    "description": "Raqamli marketing (SMM, SEO), mijozlar psixologiyasi, brending va savdo strategiyasi.",
+    "icon": "Megaphone",
+    "color": "#D946EF"
+  }
+]
